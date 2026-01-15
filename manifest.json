@@ -1,12 +1,12 @@
 {
-    "display_name": "Template Extension",
+    "display_name": "Foreign Word Killer",
     "loading_order": 1,
     "requires": [],
     "optional": [],
     "js": "dist/index.js",
     "css": "",
-    "author": "Cohee1207",
+    "author": "Jam",
     "version": "1.0.0",
-    "homePage": "https://github.com/Cohee1207/Extension-ReactTemplate",
-    "auto_update": true
+    "homePage": "https://github.com/MkeyBluff/Foreign-Word-Killer",
+    "auto_update": false
 }
